@@ -1,4 +1,4 @@
-# Spring Boot, MySQL, JPA, Hibernate Rest API Tutorial Using MySQL, JPA Hibernate and Swigger.
+# Restful CRUD API for a simple User-CRUD application using Spring Boot, Mysql, JPA and Hibernate and swigger.
 
 Create Restful CRUD API for a simple User-CRUD application using Spring Boot, Mysql, JPA and Hibernate and swigger.
 
