@@ -60,5 +60,5 @@ The app defines following CRUD APIs.
     
 Swagger2 UI will run at <http://localhost:8080/swagger-ui.html>.
 
-You can test them using swigger-ui or any other rest client.
+You can test them using swagger-ui or any other rest client.
 
