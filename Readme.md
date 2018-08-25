@@ -1,6 +1,6 @@
-# Restful CRUD API for a simple User-CRUD application using Spring Boot, Mysql, JPA and Hibernate and swigger.
+# Restful CRUD API for a simple User-CRUD application using Spring Boot, Mysql, JPA and Hibernate and swigger 2.
 
-Create Restful CRUD API for a simple User-CRUD application using Spring Boot, Mysql, JPA and Hibernate and swigger.
+Create Restful CRUD API for a simple User-CRUD application using Spring Boot, Mysql, JPA and Hibernate and swigger 2.
 
 ## Requirements
 
@@ -57,6 +57,8 @@ The app defines following CRUD APIs.
     PUT /api/users/{userId}
     
     DELETE /api/users/{userId}
+    
+Swigger2 UI will run at <http://localhost:8080/swagger-ui.html>.
 
 You can test them using swigger-ui or any other rest client.
 
